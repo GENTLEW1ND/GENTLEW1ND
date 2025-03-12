@@ -76,9 +76,7 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/GENTLEW1ND/GENTLEW1ND/output/snake.svg" alt="Snake animation" />
 
 ###
 
