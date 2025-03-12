@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGMzZnUxNzNuZTEzMWJmcmVxenZ6d3o0c20yeTA1Zm9kczNwZ3dsMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UCQ5LookOT2ufbsGiT/giphy.gif"  />
+<img align="right" height="150" src="Universe Developer Sticker by GitHub.gif"  />
 
 ###
 
